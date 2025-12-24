@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of EduEnglish - Học Tiếng Anh Phổ Thông",
+  "description": "Một nền tảng tự học tiếng Anh toàn diện từ lớp 1 đến lớp 12, bao gồm ngữ pháp, từ vựng, bài kiểm tra và trợ lý AI thông minh, đi kèm nhạc chill giúp tập trung.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
